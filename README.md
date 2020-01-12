@@ -1,4 +1,5 @@
 INSTRUCTIONS:
+DOWNLOAD THIS FILE TO READ - GitHub README formatting is awful
 
 1. extract data.7z and place data and doc2vecdata folders into the root (this) folder
       you can put it somewhere else but you will have to configure data paths in the scripts below
