@@ -15,8 +15,8 @@ models = ["dbow_30e.model"] # set to "naive" for bowvector
 numfolds = 10
 # root = ""
 # root = '/usr/groups/mphil/L90/data-tagged'
-data_positive = data/POS'
-data_negative = data/NEG'
+data_positive = 'data/POS'
+data_negative = 'data/NEG'
 outfile = open("svm_output.txt", 'w+')
 bowvectorsource = set()
 
